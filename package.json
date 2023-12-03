@@ -1,0 +1,12 @@
+{
+  "name": "@robinbetilsson/advent-of-code-2023",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
